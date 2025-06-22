@@ -5,6 +5,6 @@ Harness the power of Python, Numpy, Pandas, and APIs to fetch real-time cryptocu
 
 ## 🚀 Features:
 - Real-time crypto data fetching via Coinranking API
-- Precise investment calculation using Pandas DataFrame
 - Equal-weight strategy for balanced investment allocation
 - Comprehensive insights presented in a secure .xlsx format
+-  Precise investment calculation using Pandas DataFrame
